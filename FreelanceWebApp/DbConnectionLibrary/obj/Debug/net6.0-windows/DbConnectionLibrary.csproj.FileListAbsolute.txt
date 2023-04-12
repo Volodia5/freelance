@@ -1,0 +1,15 @@
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.AssemblyInfo.cs
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\bin\Debug\net6.0-windows\DbConnectionLibrary.deps.json
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\bin\Debug\net6.0-windows\DbConnectionLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\bin\Debug\net6.0-windows\DbConnectionLibrary.pdb
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\bin\Debug\net6.0-windows\EntityLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\bin\Debug\net6.0-windows\EntityLibrary.pdb
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.csproj.CopyComplete
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\refint\DbConnectionLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\DbConnectionLibrary.pdb
+C:\Users\matth\Desktop\C#\FreelanceWebApp\DbConnectionLibrary\obj\Debug\net6.0-windows\ref\DbConnectionLibrary.dll

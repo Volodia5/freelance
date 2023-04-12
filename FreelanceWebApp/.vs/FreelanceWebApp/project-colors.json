@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65e23b69-6b18-4195-80e9-e1f1d79b94b4": {
+      "ProjectGuid": "65e23b69-6b18-4195-80e9-e1f1d79b94b4",
+      "DisplayName": "Server",
+      "ColorIndex": 0
+    },
+    "bfc259ec-88a9-4c6e-b08b-ec71154cc1af": {
+      "ProjectGuid": "bfc259ec-88a9-4c6e-b08b-ec71154cc1af",
+      "DisplayName": "EntityLibrary",
+      "ColorIndex": 1
+    },
+    "b449bead-dc0e-4060-a911-e4c0cec21048": {
+      "ProjectGuid": "b449bead-dc0e-4060-a911-e4c0cec21048",
+      "DisplayName": "DbConnectionLibrary",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

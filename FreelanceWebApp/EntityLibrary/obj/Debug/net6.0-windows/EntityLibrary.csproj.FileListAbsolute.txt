@@ -1,0 +1,12 @@
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\bin\Debug\net6.0-windows\EntityLibrary.deps.json
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\bin\Debug\net6.0-windows\EntityLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\bin\Debug\net6.0-windows\EntityLibrary.pdb
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.AssemblyInfo.cs
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\refint\EntityLibrary.dll
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\EntityLibrary.pdb
+C:\Users\matth\Desktop\C#\FreelanceWebApp\EntityLibrary\obj\Debug\net6.0-windows\ref\EntityLibrary.dll
