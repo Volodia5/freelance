@@ -121,7 +121,7 @@ function GoToAddingOrder(){
 }
 
 function Exit(){
-  window.location.href = "signIn.html";
+  window.location.href = "index.html";
 }
 
 let employer;
